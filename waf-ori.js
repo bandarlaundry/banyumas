@@ -17,12 +17,12 @@ document.getElementById('whatsappForm').addEventListener('submit', function (e) 
 
   // Construct the message
   const message = `
-    *Ada Orderan Baru Nih:*
+    *Ada Yang Mau Laundry Nih:*
     Nama: ${name}
     Email: ${email}
     Telepon: ${phone}
     Alamat: ${address}
-    Produk: ${product}
+    Jasa: ${product}
 
     *Dari:* ${userAgent}
     *Tanggal:* ${date}
