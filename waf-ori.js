@@ -28,7 +28,7 @@ document.getElementById('whatsappForm').addEventListener('submit', function (e) 
     *Tanggal:* ${date}
     *Jam:* ${time}
 
-    _Terimakasih sudah berbelanja pada kami_
+    _Terimakasih sudah meggunakan jasa laundry kami_
   `;
 
   // Encode the message for URL
