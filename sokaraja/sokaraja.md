@@ -2,7 +2,7 @@
 
 Apakah Anda sedang mencari jasa laundry terpercaya di Sokaraja Banyumas? Kami hadir untuk memberikan solusi terbaik untuk kebutuhan laundry Anda! Kami menawarkan layanan laundry kiloan dan satuan yang memberikan hasil bersih, rapi, dan wangi, dengan berbagai layanan tambahan untuk memastikan kenyamanan Anda.
 
-![Jasa Laundry Kiloan dan Satuan di Sokaraja Banyumas](hhttps://raw.githubusercontent.com/bandardeterjen/banyumas/refs/heads/images/bd-banyumas-sokaraja.jpg)
+![Jasa Laundry Kiloan dan Satuan di Sokaraja Banyumas](https://raw.githubusercontent.com/bandardeterjen/banyumas/refs/heads/images/bd-banyumas-sokaraja.jpg)
 
 ### Layanan Laundry Kiloan dan Satuan Berkualitas
 
