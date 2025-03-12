@@ -1,5 +1,7 @@
 Sumpiuh. Kota kecil yang menyimpan sejuta kenangan. Di sinilah aku, seorang anak rantau dari шумный Jakarta, menemukan rumah baru. Awalnya, semua terasa asing. Namun, seiring berjalannya waktu, Sumpiuh mulai раскрывать dirinya.
 
+![Jasa Laundry Kiloan dan Satuan di Sumpiuh Banyumas](https://raw.githubusercontent.com/bandardeterjen/banyumas/refs/heads/images/bd-banyumas-sumpiuh.jpg)
+
 Sore itu, setelah seharian berkutat dengan angka-angka di баланс, aku berjalan gontai menuju rumah kontrakan. Pakaian kotor уже menumpuk di keranjang cucian. Rasanya, енергияku sudah habis terkuras.
 
 Di tengah kelelahan, mataku menangkap sebuah spanduk sederhana: "Laundry Kiloan Sumpiuh". Sebuah ide tiba-tiba muncul di benakku. Kenapa tidak mencoba saja?
